@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Pinpoint</title>
+    <link>https://pinpointltd-png.netlify.app/services/</link>
+    <description>Recent content in Services on Pinpoint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://pinpointltd-png.netlify.app/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Town/City Planning</title>
+      <link>https://pinpointltd-png.netlify.app/services/town-city-planning/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/services/town-city-planning/</guid>
+      <description>Our GIS methods allows us to perform:
+Land Allocation
+Identify land suitability against varying factors for allocating infrastructure whether it is a school, business, education facility, hospitals, housing etc. Land suitability/allocation is the GIS method for you should you need to make informed decisions about site selection.
+Network Analysis (Pedestrian and Traffic Movement)
+This service gives the client insights in terms of time with a spatial context. Projects that require time as a measure of distance to delivery is for you.</description>
+    </item>
+    
+    <item>
+      <title>Environmental Mapping</title>
+      <link>https://pinpointltd-png.netlify.app/services/environmental-mapping/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/services/environmental-mapping/</guid>
+      <description>With the current trend in climate change development initiatives and government development goals, we tackle pressing environmental issues with our knowledge and skills in mapping these phenomena through the following services:
+Flood Modelling
+Take a proactive approach to managing disasters with our flood modeling analysis. With this service, we can model various flooding scenarios to identify populations and infrastructure at risk and target areas for preventative flood embankment development or monitoring.</description>
+    </item>
+    
+    <item>
+      <title>Engineering Mapping</title>
+      <link>https://pinpointltd-png.netlify.app/services/engineering-mapping/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/services/engineering-mapping/</guid>
+      <description>GIS in the Design and Construction of Projects
+Airstrip Surveys
+In depth knowledge of rural aerodromes in Papua New Guinea, our service utilizes drone imagery and soil testing that is conducted in compliance with CASAPNG advisory circular 196 for rural airstrips.
+Transportation
+Knowing if a new road network will ease congestion and improve connectivity in a city is important. Our service will optimize connectivity nodes and produce predictive outputs to test project output and expected results before any construction is made.</description>
+    </item>
+    
+    <item>
+      <title>Socio-economic Studies</title>
+      <link>https://pinpointltd-png.netlify.app/services/socio-economic-studies/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/services/socio-economic-studies/</guid>
+      <description>Identify relationships in the socio-economic realm for community well-being and development.
+Our service makes it possible to understand human geography and find relationships in occurences of phenomena such as:
+Crimes
+Assist policing with mapping of crime hotspots in municipalities. The value of this information greatly influences and targets policing activities in crime hotspot areas.
+Disease Outbreaks
+Containing contagious diseases before it spreads is paramount in safe guarding vulnerable communities. Our knowledge in GIS will assist in the containment of such outbreaks with statistical mapping and modelling predicted trends.</description>
+    </item>
+    
+    <item>
+      <title>GIS Training</title>
+      <link>https://pinpointltd-png.netlify.app/services/gis-training/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/services/gis-training/</guid>
+      <description>Gain an appreciation for GIS and its applications in realworld scenarios. Solve problems with the power of GIS with real, actionable and defendable decisions based on data.
+At Pinpoint, we believe in community involvement and well-being. Imparting our knowledge in GIS will help communities plan and make better informed decisions in their daily lives. Not only that, but inspire entrepreneurship. Having skills in GIS sets you apart as a tech genius, and gives you the software skills to implement in your private projects.</description>
+    </item>
+    
+  </channel>
+</rss>

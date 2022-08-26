@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Pinpoint</title>
+    <link>https://pinpointltd-png.netlify.app/work/</link>
+    <description>Recent content in Work on Pinpoint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://pinpointltd-png.netlify.app/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interferometry</title>
+      <link>https://pinpointltd-png.netlify.app/work/interferometry/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/work/interferometry/</guid>
+      <description>Kaikoura Earthquake
+Until the early 1990’s, it was recognized that topography and surface deformation could be measured using spaceborne radar interferometry (InSAR). The advantages of this technique are best applied to displacement caused by earthquakes, subsidence, volcano uplift phenomena and glaciers. Spatial and temporal resolutions are so accurate that surface displacement in the vertical and horizontal directions will be captured down to centimeter level accuracy.
+Application of this technology in PNG for landslide mapping using this technique would be advantageous in identifying potential high-risk areas relating to human settlement and economic infrastructure such as the highlands highway.</description>
+    </item>
+    
+    <item>
+      <title>Global Road Connectivity</title>
+      <link>https://pinpointltd-png.netlify.app/work/global-road-connectivity/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/work/global-road-connectivity/</guid>
+      <description>Space syntax is a set of theories and statistical methods that are used to model and analyse movement within cities. This small project applies that theory to model and analyse the street network of Port Moresby in Papua New Guinea* within a 10km radius from the CBD. The analysis was able to predict road segments that would have high volume of traffic indicted by the warm/ or hot colors in the map.</description>
+    </item>
+    
+    <item>
+      <title>Airport Inspector</title>
+      <link>https://pinpointltd-png.netlify.app/work/airport-inspector/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/work/airport-inspector/</guid>
+      <description>WebGIS
+A Web GIS Application for decision support in airstrip allocation and serviceability impact on rural areas in Papua New Guinea. Follow link to access webapp https://niuginitravelor.shinyapps.io/Airport-Inspector/</description>
+    </item>
+    
+    <item>
+      <title>Airstrip Survey Program</title>
+      <link>https://pinpointltd-png.netlify.app/work/airstrip-survey-program/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/work/airstrip-survey-program/</guid>
+      <description>Graphical User Interface
+Built using the Tkinter python package for GUI development, the Airstrip Survey program is a user-friendly GUI interface that shows 8 variables which guides the user to input airstrip survey data. It was developed to target technical personnel in the aviation industry in Papua New Guinea.
+Airstrip surveyors in the past have been using sheets of printed paper to collect airstrip information and on these survey trips, they are exposed to the natural elements of nature.</description>
+    </item>
+    
+    <item>
+      <title>Carbon Stocks</title>
+      <link>https://pinpointltd-png.netlify.app/work/carbon-stocks/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/work/carbon-stocks/</guid>
+      <description>Above Ground Biomass
+Intimately known as the lungs of the earth, forests sequester carbon dioxide from the atmosphere for stem growth and mass gains thus are a major source of terrestrial carbon. Forests provide many environmental services which are critical such as carbon storage, the hydrological cycle, the atmospheric composition, sediment transport, albedo, global temperatures and wildlife habitat for 80% of the world’s terrestrial biodiversity, however, with average global CO2 concentrations reaching 412.</description>
+    </item>
+    
+    <item>
+      <title>Solar Potential</title>
+      <link>https://pinpointltd-png.netlify.app/work/rooftop-solar-potential/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://pinpointltd-png.netlify.app/work/rooftop-solar-potential/</guid>
+      <description>Ideal Rooftop Solar Potential Location
+Determination of Solar potential was performed using ArcGIS model builder which is a visual programming language for building workflows through combining several tools such as slope, aspect, zonal statistics, joins etc. We utilized building footprints and the DSM as model inputs to provide the basis for automation required in scaling up analysis for the project to cover other buildings. We were able to determine the ideal locations of the Pavilion rooftop for installing solar panels that yielded the most solar potential indicated as red grid cells.</description>
+    </item>
+    
+  </channel>
+</rss>
