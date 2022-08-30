@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Pinpoint</title>
+    <title>Home on Pinpoint Consultancy</title>
     <link>https://pinpointltd-png.netlify.app/</link>
-    <description>Recent content in Home on Pinpoint</description>
+    <description>Recent content in Home on Pinpoint Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://pinpointltd-png.netlify.app/index.xml" rel="self" type="application/rss+xml" />
@@ -135,7 +135,7 @@ At Pinpoint, we believe in community involvement and well-being. Imparting our k
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://pinpointltd-png.netlify.app/about/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -144,8 +144,7 @@ At Pinpoint, we believe in community involvement and well-being. Imparting our k
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://pinpointltd-png.netlify.app/history/</guid>
-      <description>About Heading  The business was founded by Charlie Arua Ikosi, a young geospatial graduate from the University of Canterbury in Christchurch, New Zealand after having returned to Papua New Guinea in March 2022. With low employment rates in the country, Charlie decided to utilize his skills and knowledge in geospatial science by starting the business which would enter the GIS and consulting field by employing himself at Pinpoint.
-    </description>
+      <description>About Heading The business was founded by Charlie Arua Ikosi, a geospatial graduate from the University of Canterbury and an alumni of the Manaaki New Zealand Scholarship 2020-2022 for pacific scholars. The establishment of the business was to address a skills and technical gap in the country that under utilized GIS in decision making for development related planning and for disaster mitigation and response.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Pinpoint</title>
+    <title>Pages on Pinpoint Consultancy</title>
     <link>https://pinpointltd-png.netlify.app/pages/</link>
-    <description>Recent content in Pages on Pinpoint</description>
+    <description>Recent content in Pages on Pinpoint Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="https://pinpointltd-png.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://pinpointltd-png.netlify.app/about/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -22,8 +22,7 @@
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://pinpointltd-png.netlify.app/history/</guid>
-      <description>About Heading  The business was founded by Charlie Arua Ikosi, a young geospatial graduate from the University of Canterbury in Christchurch, New Zealand after having returned to Papua New Guinea in March 2022. With low employment rates in the country, Charlie decided to utilize his skills and knowledge in geospatial science by starting the business which would enter the GIS and consulting field by employing himself at Pinpoint.
-    </description>
+      <description>About Heading The business was founded by Charlie Arua Ikosi, a geospatial graduate from the University of Canterbury and an alumni of the Manaaki New Zealand Scholarship 2020-2022 for pacific scholars. The establishment of the business was to address a skills and technical gap in the country that under utilized GIS in decision making for development related planning and for disaster mitigation and response.</description>
     </item>
     
   </channel>
