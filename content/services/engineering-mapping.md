@@ -14,7 +14,7 @@ GIS in the Design and Construction of Projects
 
 **Airstrip Surveys**
 
-*In depth knowledge of rural aerodromes in Papua New Guinea, our service utilizes drone imagery and soil testing that is conducted in compliance with CASAPNG advisory circular 196 for rural airstrips.*
+*In depth knowledge of rural aerodromes in Papua New Guinea, our service utilizes drone imagery and soil testing that is conducted in compliance with CASAPNG advisory circular 139-6 for rural airstrips.*
 
 **Transportation**
 
